@@ -1,5 +1,5 @@
 ---
-title: "Yongyan Liu"
+title: "Data, Health, and Adventure | Yongyan Liu"
 ---
 
 <br>
@@ -30,7 +30,7 @@ Currently playing at a 20 handicap and working to bring it down. Golf teaches pa
 
 ### Academic Life
 
-**Columbia University** - Mailman School of Public Health
+**Columbia University** - Mailman School of Public Health |
 Master of Science in Biostatistics | Expected 2027
 
 Applying data science and statistical methods to solve real-world problems in public health.
