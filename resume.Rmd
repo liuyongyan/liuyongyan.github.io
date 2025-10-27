@@ -37,7 +37,7 @@ Launched Google Product Search across East Asia as tech lead, cracking the hard 
 
 ## Skills
 
-**Programming:** R, Python, C++, SQL
+**Programming:** R, Python, Java, C/C++, SQL
 
 **Data Science:** Statistical Analysis, Machine Learning, Data Visualization
 
