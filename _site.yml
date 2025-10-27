@@ -1,0 +1,26 @@
+name: "Yongyan Liu"
+output_dir: "."
+exclude: ["CLAUDE.md", "*.Rproj", ".gitignore"]
+navbar:
+  title: "Yongyan Liu"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Resume"
+      href: resume.html
+  right:
+    - icon: fa-envelope
+      text: "Email"
+      href: mailto:yl6107@columbia.edu
+    - icon: fa-github
+      text: "GitHub"
+      href: https://github.com/liuyongyan
+    - icon: fa-linkedin
+      text: "LinkedIn"
+      href: https://www.linkedin.com/in/liuyongyan
+output:
+  html_document:
+    theme: flatly
+    highlight: tango
+    toc: true
+    toc_float: true
