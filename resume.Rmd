@@ -10,18 +10,17 @@ title: "Resume"
 
 ## Education
 
-**Columbia University** | New York, NY
+**Columbia University** Mailman School of Public Health | New York, NY |
 Master of Science in Biostatistics | Expected 2027
-Mailman School of Public Health
 
-**Fudan University** | Shanghai, China
+**Fudan University** | Shanghai, China |
 Bachelor of Science in Computer Science | 2007
 
 ---
 
 ## Professional Experience
 
-**Founder & CEO, Fintopia Group** | Beijing, China | 2015 - 2024
+**Founder & CEO, Fintopia Group** | Beijing, China | 2015 - Now
 
 Built a FinTech empire from scratch using big data and AI to democratize financial services across emerging markets. Scaled to 184 million users across China, Southeast Asia, Latin America, and Africa, facilitating $78.2 billion in transactions. Partnered with 115 financial institutions, providing AI-powered risk control, user profiling, and automated customer service. Turned "technology transforms finance" from a motto into reality by bringing credit access to farmers, entrepreneurs, and the underbanked. Created brands like YQG Loan, Easycash, and MabilisCash that became household names in their markets.
 
