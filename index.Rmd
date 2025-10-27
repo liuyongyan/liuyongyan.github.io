@@ -1,10 +1,12 @@
 ---
-title: "Welcome"
+title: "Yongyan Liu"
 ---
 
-## About Me
+<br>
 
 Hello! I'm **Yongyan Liu**, a first-year Master's student in Biostatistics at Columbia University. When I'm not analyzing data, you'll find me on mountains, underwater, or on the golf course.
+
+<br>
 
 ### Adventures & Hobbies
 
@@ -12,13 +14,19 @@ Hello! I'm **Yongyan Liu**, a first-year Master's student in Biostatistics at Co
 
 I've been chasing powder since 2010, and it's become more than just a hobby. I've carved turns across four continents—from the resorts of Asia to the peaks of Europe, the Andes of South America, and the legendary slopes of North America. Whether it's fresh powder or groomed runs, I'm equally comfortable on skis or a snowboard.
 
+<br>
+
 **Scuba Diving** - Advanced Open Water Diver
 
 With over 200 dives under my belt and a PADI Advanced Open Water license, I've explored underwater worlds that most people only see in documentaries. There's something magical about the weightlessness and tranquility beneath the surface—it's meditation in motion.
 
+<br>
+
 **Golf** - Enthusiastic Beginner
 
 Currently playing at a 20 handicap and working to bring it down. Golf teaches patience and humility in ways that no other sport can. Every round is a new challenge, and I'm hooked.
+
+<br>
 
 ### Academic Life
 
@@ -27,10 +35,8 @@ Master of Science in Biostatistics | Expected 2027
 
 Applying data science and statistical methods to solve real-world problems in public health.
 
+<br>
+
 ### Get in Touch
 
 Feel free to reach out via [email](mailto:yl6107@columbia.edu) or connect with me on [GitHub](https://github.com/liuyongyan). Always happy to chat about data, mountains, diving spots, or the best courses to play!
-
----
-
-*This website was created as part of the P8105 Data Science I course at Columbia University.*
