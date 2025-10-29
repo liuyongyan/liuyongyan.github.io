@@ -8,6 +8,8 @@ navbar:
       href: index.html
     - text: "Resume"
       href: resume.html
+    - text: "Data Visualization"
+      href: dashboard.html
   right:
     - icon: fa-envelope
       text: "Email"
