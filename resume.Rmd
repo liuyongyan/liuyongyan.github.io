@@ -24,7 +24,7 @@ Built a FinTech empire from scratch using big data and AI to democratize financi
 
 **Engineering Manager, Facebook** | Menlo Park, CA | 2010 - 2014
 
-Built Facebook's payment backbone from the ground up. Led teams that processed billions of dollars through 40+ payment methods, powering everything from ads to games. Spearheaded the migration from Facebook Credits to local currencies—an 18-month ground-up rebuild that cut user latency in half. Shipped mobile carrier billing and 60+ alternative payment methods to crack markets where credit cards don't exist. Started as a founding engineer when daily volume was $1K, left as Engineering Director when it hit $10M+ daily. Promoted twice in four years for turning payments into a competitive advantage.
+Built Facebook's payment backbone from the ground up. Led teams that processed billions of dollars through 40+ payment methods, powering everything from ads to games. Spearheaded the migration from Facebook Credits to local currencies—an 18-month ground-up rebuild that cut user latency in half. Shipped mobile carrier billing and 60+ alternative payment methods to crack markets where credit cards don't exist. Started as a founding engineer when daily volume was $1K, left as Engineering Director when it hit $10M+ daily. Promoted three times in four years for turning payments into a competitive advantage.
 
 **Software Engineer, Google** | Beijing, China | 2007 - 2010
 
