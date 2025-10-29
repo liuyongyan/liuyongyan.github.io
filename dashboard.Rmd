@@ -12,9 +12,14 @@ library(flexdashboard)
 library(tidyverse)
 library(plotly)
 library(p8105.datasets)
+```
 
-# Load and clean NY NOAA data for 2008
-# Focus on 2008 (122,665 observations)
+### About This Dashboard
+
+This dashboard demonstrates interactive data visualization techniques using weather data from New York State. The NY NOAA dataset contains over 2.5 million observations from 747 weather stations spanning 1981-2010. For demonstration purposes, this dashboard focuses exclusively on data from 2008, which provides a representative sample of 122,665 observations while ensuring fast, responsive visualizations.
+
+```{r}
+# Load and clean NY NOAA data for 2008 (122,665 observations)
 data("ny_noaa")
 
 ny_noaa_clean = ny_noaa %>%
@@ -38,7 +43,9 @@ ny_noaa_clean = ny_noaa %>%
 
 ```{r}
 temp_prcp_plot = ny_noaa_clean %>%
-  filter(prcp > 1) %>%
+  filter(prcp > 0) %>%
+  # 10K observations are enough to show the trend
+  sample_n(10000) %>%
   plot_ly(
     x = ~tmax,
     y = ~prcp,
@@ -50,7 +57,7 @@ temp_prcp_plot = ny_noaa_clean %>%
                   "<br>Max Temp:", tmax, "°C",
                   "<br>Precipitation:", prcp, "mm"),
     hoverinfo = "text",
-    marker = list(size = 5, opacity = 0.6)
+    marker = list(size = 5, opacity = 0.4)
   ) %>%
   layout(
     xaxis = list(title = "Maximum Temperature (°C)"),
