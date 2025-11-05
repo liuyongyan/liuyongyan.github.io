@@ -1,5 +1,11 @@
 ---
 title: "Data, Health, and Adventure | Yongyan Liu"
+output:
+  html_document:
+    theme: flatly
+    highlight: tango
+    toc: true
+    toc_float: true
 ---
 
 <br>

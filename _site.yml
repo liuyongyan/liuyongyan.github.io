@@ -8,7 +8,7 @@ navbar:
       href: index.html
     - text: "Resume"
       href: resume.html
-    - text: "Data Visualization"
+    - text: "Data Visualization - Problem 2"
       href: dashboard.html
   right:
     - icon: fa-envelope
@@ -20,9 +20,3 @@ navbar:
     - icon: fa-linkedin
       text: "LinkedIn"
       href: https://www.linkedin.com/in/liuyongyan
-output:
-  html_document:
-    theme: flatly
-    highlight: tango
-    toc: true
-    toc_float: true
