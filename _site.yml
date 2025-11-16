@@ -1,15 +1,11 @@
 name: "Yongyan Liu"
 output_dir: "."
-exclude: ["CLAUDE.md", "*.Rproj", ".gitignore"]
+exclude: ["_CLAUDE.md", "*.Rproj", ".gitignore"]
 navbar:
   title: "Yongyan Liu"
   left:
     - text: "Home"
       href: index.html
-    - text: "Resume"
-      href: resume.html
-    - text: "Data Visualization - Problem 2"
-      href: dashboard.html
   right:
     - icon: fa-envelope
       text: "Email"
