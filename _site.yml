@@ -2,7 +2,7 @@ name: "Yongyan Liu"
 output_dir: "."
 exclude: ["_CLAUDE.md", "*.Rproj", ".gitignore"]
 navbar:
-  title: "Yongyan Liu"
+  title: '<img src="images/logo.svg" style="height:30px; display:inline-block; margin-right:10px; vertical-align: middle; background: white; border-radius: 4px; padding: 2px;"> Yongyan Liu'
   left:
     - text: "Home"
       href: index.html
@@ -16,3 +16,7 @@ navbar:
     - icon: fa-linkedin
       text: "LinkedIn"
       href: https://www.linkedin.com/in/liuyongyan
+output:
+  html_document:
+    includes:
+      in_header: header.html

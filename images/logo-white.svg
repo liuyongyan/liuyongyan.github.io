@@ -1,0 +1,8 @@
+<svg width="150" height="150" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- Left: Tech/Mountain (Sharp) -> Changed to White -->
+    <path d="M20 20 L50 60 L50 90" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <!-- Right: Bio/Wave (Curved) -> Changed to Bright Cyan -->
+    <path d="M80 20 C80 40 50 40 50 60" stroke="#40E0D0" stroke-width="8" stroke-linecap="round"/>
+    <!-- Dot for Data point -> Kept White -->
+    <circle cx="50" cy="60" r="5" fill="#FFA500"/>
+</svg>
