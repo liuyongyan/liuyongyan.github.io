@@ -2,13 +2,15 @@
 title: "Data, Health, and Adventure | Yongyan Liu"
 output:
   html_document:
-    theme: flatly
+    theme: yeti
     highlight: tango
     toc: true
     toc_float: true
 ---
 
 <br>
+
+<img src="photos/portrait_casual_street.jpeg" style="width:35%; border-radius: 10px; float: right; margin-left: 20px;">
 
 Hello! I'm **Yongyan Liu**, a first-year Master's student in Biostatistics at Columbia University. When I'm not analyzing data, you'll find me on mountains, underwater, or on the golf course.
 
@@ -34,12 +36,21 @@ Currently playing at a 20 handicap and working to bring it down. Golf teaches pa
 
 <br>
 
+### Key Data Analysis Projects
+
+*   **[NYC MTA Data Analysis](https://nycmta.github.io/)**: A comprehensive analysis of the New York City subway system.
+*   **[EVDx](https://github.com/liuyongyan/EVDx)**: A project investigating various aspects of Ebola Virus Disease through data analysis.
+
+<br>
+
 ### Academic Life
 
 **Columbia University** - Mailman School of Public Health |
 Master of Science in Biostatistics | Expected 2027
 
 Applying data science and statistical methods to solve real-world problems in public health.
+
+[Download Resume](resumes/Yongyan_Liu_Resume.pdf)
 
 <br>
 
