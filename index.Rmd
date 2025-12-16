@@ -39,7 +39,7 @@ Currently playing at a 20 handicap and working to bring it down. Golf teaches pa
 ### Key Data Analysis Projects
 
 *   **[NYC MTA Data Analysis](https://nycmta.github.io/)**: A comprehensive analysis of the New York City subway system.
-*   **[EVDx](https://github.com/liuyongyan/EVDx)**: A project investigating various aspects of Ebola Virus Disease through data analysis.
+*   **[EVDx](https://github.com/liuyongyan/EVDx)**: An AI-powered diagnostic framework leveraging a large-scale, harmonized database of Extracellular Vesicle (EV) omics data (proteomics and miRNA) from human blood to identify disease biomarkers.
 
 <br>
 
